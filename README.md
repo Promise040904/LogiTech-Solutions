@@ -1,1 +1,1 @@
-# SafeBank-Tech
+LogiTech-Solutions
